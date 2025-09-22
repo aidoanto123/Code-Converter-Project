@@ -28,3 +28,12 @@ Clone the repo and install dependencies:
 git clone https://github.com/aidoanto123/Code-Converter-Project.git
 cd Code-Converter-Project
 pip install -r requirements.txt
+```
+
+## ▶️ Usage
+
+Run the app with:
+
+```bash
+python main.py
+
